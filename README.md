@@ -10,11 +10,11 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="fill-color" /><style>.fill-color{filter: invert(37%) sepia(88%) saturate(846%) hue-rotate(226deg) brightness(87%) contrast(91%);}</style>][linkedin]
+[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" class="fill-color" /><style>.fill-color{filter: invert(37%) sepia(88%) saturate(846%) hue-rotate(226deg) brightness(87%) contrast(91%);}</style>][gmail]
+[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
-[<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" class="fill-color" /><style>.fill-color{filter: invert(37%) sepia(88%) saturate(846%) hue-rotate(226deg) brightness(87%) contrast(91%);}</style>][leetcode]
+[<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
 
 <br>
 
