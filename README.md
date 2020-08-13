@@ -31,12 +31,10 @@
 
 <img align="left" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=radical&layout=compact&hide_border=true" width="500"/>
 
+<img align="center" alt="Visitor Count" src="https://profile-counter.glitch.me/jha-vineet69/count.svg"/>
+
 ---
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/jha-vineet69/count.svg" />
-</p>
 
 [linkedin]: https://www.linkedin.com/in/jha-vineet/
 [gmail]: mailto:vineetjha3388@gmail.com
