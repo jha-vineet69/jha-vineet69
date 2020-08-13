@@ -1,10 +1,10 @@
 ### Hi there, I'm Vineet 👋
 
 ## I'm an Engineer, a Data Scientist, and Life Long Learner!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot
-- ⚡ Fun fact: I love to bingewatch movies and play sports
+- 🔭 I’m currently working on a Time Series Forecasting Project!
+- 🌱 I’m currently Learning everything.
+- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
+- ⚡ Fun fact: I love to bingewatch movies and play sports.
 
 ### Connect with me:
 
@@ -16,8 +16,10 @@
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
+- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
+- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
+- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
 
 ---
 
