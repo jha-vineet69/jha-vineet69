@@ -35,7 +35,6 @@
 <img align="left" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=radical&layout=compact&hide_border=true" width="500"/>
 
 <br>
----
 
 
 [linkedin]: https://www.linkedin.com/in/jha-vineet/
