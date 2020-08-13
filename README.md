@@ -16,7 +16,7 @@
 
 [<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
-</br>
+<br>
 
 ### 📕 Latest Blog Posts
 - [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
@@ -24,13 +24,13 @@
 - [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
 - [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
 
-</br>
+<br>
 
 <img align="left" alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=radical" height="200" width="500"/>
 
 <img align="left" alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=radical&layout=compact&hide_border=true" width="500"/>
 
-</br>
+<br>
 
 
 [linkedin]: https://www.linkedin.com/in/jha-vineet/
