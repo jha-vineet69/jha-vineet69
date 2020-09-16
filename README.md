@@ -51,7 +51,7 @@
 
 <img alt="Jha-Vineet69's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=jha-vineet69&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
-<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api/top-langs/?username=jha-vineet69&theme=buefy&layout=compact&hide_border=true&hide=Smalltalk" width="500"/>
+<img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api/top-langs/?username=jha-vineet69&theme=buefy&layout=compact&hide_border=true&langs_count=7&hide=Smalltalk" width="500"/>
 
 [linkedin]: https://www.linkedin.com/in/jha-vineet/
 [gmail]: mailto:vineetjha3388@gmail.com
