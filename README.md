@@ -3,7 +3,7 @@
 
 ## I'm an Engineer, a Data Scientist, and Life Long Learner!
 - 🌱 I’m currently Learning everything.
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn a lot.
+- 🥅 2022 Goals: Contribute more to Open Source projects and Learn a lot.
 - ⚡ Fun fact: I love to bingewatch movies and play sports.
 
 ---
