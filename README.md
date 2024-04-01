@@ -1,9 +1,9 @@
 ### Hi there, I'm Vineet 👋
 
 
-## I'm an Engineer, a Data Scientist, and Life Long Learner!
-- 🌱 I’m currently Learning everything.
-- 🥅 2022 Goals: Contribute more to Open Source projects and Learn a lot.
+## I'm an Engineer, a Data Enthusiast, and Life Long Learner!
+- 🌱 Currently working as BI Associate at Setu (Pine Labs).
+- 🥅 2024 Goals: Learn some Data Engineering.
 - ⚡ Fun fact: I love to bingewatch movies and play sports.
 
 ---
